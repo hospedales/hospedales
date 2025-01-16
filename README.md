@@ -41,8 +41,8 @@ Then let’s talk!
 
 Below are some highlights of my public work here on GitHub:
 
-- [**Aggregate Open Tabs**](vscode-aggregate-open-tabs) – A VS Code extension to aggregate the code of your project to a single file.
-- [**Prompt Stash**](prompt_stash_n_instruction) – Some prompting tips and tricks I have been working on while coding with LLMs and Agents.
+- [**Aggregate Open Tabs**](https://github.com/hospedales/vscode-aggregate-open-tabs) – A VS Code extension to aggregate the code of your project to a single file.
+- [**Prompt Stash**](https://github.com/hospedales/prompt_stash_n_instruction) – Some prompting tips and tricks I have been working on while coding with LLMs and Agents.
 
 > Be sure to browse my [**repositories**](https://github.com/hospedales?tab=repositories) to see more of my projects and contributions.
 
