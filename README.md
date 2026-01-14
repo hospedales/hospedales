@@ -28,24 +28,11 @@ I'm not just comfortable across the stack—I actively enjoy the context-switchi
 
 ### Featured Work
 
-<a href="https://github.com/hospedales/vscode-aggregate-open-tabs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hospedales&repo=vscode-aggregate-open-tabs&theme=default" alt="Aggregate Open Tabs"/>
-</a>
-
 **[Aggregate Open Tabs](https://github.com/hospedales/vscode-aggregate-open-tabs)** – VS Code extension that consolidates your open files into a single document. Useful for code reviews, documentation, and AI-assisted development.
 
 **[Prompt Stash](https://github.com/hospedales/prompt_stash_n_instruction)** – Prompting patterns and techniques I've refined while working with LLMs. Part of my deeper dive into AI engineering and understanding how to communicate effectively with these models.
 
 → [Browse all repositories](https://github.com/hospedales?tab=repositories)
-
----
-
-### GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hospedales&show_icons=true&hide_title=true&count_private=true&hide=contribs" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hospedales&layout=compact&hide=html,css" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
