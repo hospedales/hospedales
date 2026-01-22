@@ -28,7 +28,7 @@ I'm not just comfortable across the stack—I actively enjoy the context-switchi
 
 ### Featured Work
 
-**[Aggregate Open Tabs](https://github.com/hospedales/vscode-aggregate-open-tabs)** – VS Code extension that consolidates your open files into a single document. Useful for code reviews, documentation, and AI-assisted development.
+**[Aggregate Open Tabs](https://github.com/hospedales/vscode-aggregate-open-tabs)** – VS Code extension that consolidates your open files into a single document. Useful for code reviews, documentation, and AI-assisted development. (Made this before it was easy to move your codebase around to the major LLMs. Now it is simply a record of things passed)
 
 **[Prompt Stash](https://github.com/hospedales/prompt_stash_n_instruction)** – Prompting patterns and techniques I've refined while working with LLMs. Part of my deeper dive into AI engineering and understanding how to communicate effectively with these models.
 
